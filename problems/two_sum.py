@@ -11,3 +11,5 @@ class Solution:
             except ValueError:
                 continue
             return [i_index, j_index]
+
+# test
